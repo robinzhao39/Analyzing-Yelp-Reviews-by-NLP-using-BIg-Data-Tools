@@ -1,0 +1,10 @@
+
+
+################################ data ingestion for topic extraction #######################
+// on your localhost do:
+scp {path of your dataset on the localhost} {your desired path on peel}
+
+//login into peel and do (don't forget to mkdir on hdfs first):
+hdfs dfs -put {file path on peel} {your desired path on hdfs}
+
+############################################################################################
