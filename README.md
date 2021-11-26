@@ -5,13 +5,6 @@ This project done in Big data analytical tools analyzes the public dataset provi
 
 # Input Data on HDFS
 
-​		yz3919:
-
-- Original Yelp dataset:  hdfs:///user/yz3919/project/data/yelp_dataset
-
-- Cleaned data ready for topic extraction: hdfs:///user/yz3919/project/cleaned_data/part-r-00000bz1037
-
-  bz1037: 
 
 - input data (yelp_academic_dataset_business.json,yelp_academic_dataset_review.json) can be found under yelp_project directory under user bz1037, then directory is shared with adm209, nks8839, and sj3549 as shown in screenshot in Sceenshot/bz1037/Clean folder
 
